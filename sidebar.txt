@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xwa:home|Door43 (xwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xwa|d43-xwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xwa/archive/master.zip|d43-xwa.zip]]
+
+**Recent Changes**
+{{changes>ns = xwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xwa|Ethnologue data]]
+
